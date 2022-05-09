@@ -1,5 +1,3 @@
-# dockerfiles
-dockerfiles
 ------------------------------------
 Docker images in subs
 ------------------------------------
